@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s51CSII7zh0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amera\\source\\repos\\FirstDay\\Temperature\\Temperature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amera\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

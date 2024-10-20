@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\bin\Debug\net8.0\Arithmetic Task.exe
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\bin\Debug\net8.0\Arithmetic Task.deps.json
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\bin\Debug\net8.0\Arithmetic Task.runtimeconfig.json
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\bin\Debug\net8.0\Arithmetic Task.dll
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\bin\Debug\net8.0\Arithmetic Task.pdb
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.AssemblyInfo.cs
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.dll
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\refint\Arithmetic Task.dll
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.pdb
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.genruntimeconfig.cache
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\ref\Arithmetic Task.dll

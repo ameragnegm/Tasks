@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\FirstDay\FirstDay\bin\Debug\net8.0\FirstDay.exe
+C:\Users\amera\source\repos\FirstDay\FirstDay\bin\Debug\net8.0\FirstDay.deps.json
+C:\Users\amera\source\repos\FirstDay\FirstDay\bin\Debug\net8.0\FirstDay.runtimeconfig.json
+C:\Users\amera\source\repos\FirstDay\FirstDay\bin\Debug\net8.0\FirstDay.dll
+C:\Users\amera\source\repos\FirstDay\FirstDay\bin\Debug\net8.0\FirstDay.pdb
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.AssemblyInfo.cs
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.dll
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\refint\FirstDay.dll
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.pdb
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\FirstDay.genruntimeconfig.cache
+C:\Users\amera\source\repos\FirstDay\FirstDay\obj\Debug\net8.0\ref\FirstDay.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AgeCalculate": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

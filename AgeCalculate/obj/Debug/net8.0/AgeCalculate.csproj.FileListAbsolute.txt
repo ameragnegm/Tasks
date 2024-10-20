@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\bin\Debug\net8.0\AgeCalculate.exe
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\bin\Debug\net8.0\AgeCalculate.deps.json
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\bin\Debug\net8.0\AgeCalculate.runtimeconfig.json
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\bin\Debug\net8.0\AgeCalculate.dll
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\bin\Debug\net8.0\AgeCalculate.pdb
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.AssemblyInfo.cs
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.dll
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\refint\AgeCalculate.dll
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.pdb
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.genruntimeconfig.cache
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\ref\AgeCalculate.dll
