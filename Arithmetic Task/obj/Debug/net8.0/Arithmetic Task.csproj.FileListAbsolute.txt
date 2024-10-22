@@ -12,3 +12,4 @@ C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\refint\Ari
 C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.pdb
 C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.genruntimeconfig.cache
 C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\ref\Arithmetic Task.dll
+C:\Users\amera\source\repos\FirstDay\Arithmetic Task\obj\Debug\net8.0\Arithmetic Task.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\amera\source\repos\FirstDay\Temperature\obj\Debug\net8.0\refint\Tempera
 C:\Users\amera\source\repos\FirstDay\Temperature\obj\Debug\net8.0\Temperature.pdb
 C:\Users\amera\source\repos\FirstDay\Temperature\obj\Debug\net8.0\Temperature.genruntimeconfig.cache
 C:\Users\amera\source\repos\FirstDay\Temperature\obj\Debug\net8.0\ref\Temperature.dll
+C:\Users\amera\source\repos\FirstDay\Temperature\obj\Debug\net8.0\Temperature.sourcelink.json

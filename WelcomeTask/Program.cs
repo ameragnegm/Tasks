@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Name");
-            string str = Console.ReadLine();
-            Console.WriteLine($"Hello, {str}! Welocme to C# course. ");
+            string username = Console.ReadLine();
+            Console.WriteLine($"Hello, {username}! Welocme to C# course. ");
         }
     }
 }

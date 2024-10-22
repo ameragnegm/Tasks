@@ -12,3 +12,4 @@ C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\refint\AgeCal
 C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.pdb
 C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.genruntimeconfig.cache
 C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\ref\AgeCalculate.dll
+C:\Users\amera\source\repos\FirstDay\AgeCalculate\obj\Debug\net8.0\AgeCalculate.sourcelink.json

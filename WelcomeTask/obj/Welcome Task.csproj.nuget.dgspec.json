@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amera\\source\\repos\\FirstDay\\FirstDay\\Welcome Task.csproj": {}
+    "C:\\Users\\amera\\source\\repos\\FirstDay\\WelcomeTask\\Welcome Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amera\\source\\repos\\FirstDay\\FirstDay\\Welcome Task.csproj": {
+    "C:\\Users\\amera\\source\\repos\\FirstDay\\WelcomeTask\\Welcome Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amera\\source\\repos\\FirstDay\\FirstDay\\Welcome Task.csproj",
+        "projectUniqueName": "C:\\Users\\amera\\source\\repos\\FirstDay\\WelcomeTask\\Welcome Task.csproj",
         "projectName": "Welcome Task",
-        "projectPath": "C:\\Users\\amera\\source\\repos\\FirstDay\\FirstDay\\Welcome Task.csproj",
+        "projectPath": "C:\\Users\\amera\\source\\repos\\FirstDay\\WelcomeTask\\Welcome Task.csproj",
         "packagesPath": "C:\\Users\\amera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amera\\source\\repos\\FirstDay\\FirstDay\\obj\\",
+        "outputPath": "C:\\Users\\amera\\source\\repos\\FirstDay\\WelcomeTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

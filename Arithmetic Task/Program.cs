@@ -6,10 +6,11 @@
         {
             double num1, num2;
             Console.WriteLine(" Enter your numbers");
-            num1 =   double.Parse(Console.ReadLine());
-            num2= double.Parse(Console.ReadLine());
+            num1 =   Convert.ToDouble(Console.ReadLine());
+            num2= Convert.ToDouble(Console.ReadLine());
             Console.WriteLine($"The sum: {num1 + num2}\nThe difference: {num1 - num2}\nThe product: {num1 * num2}\nThe division: {num1 / num2}");
 
         }
     }
 }
+ 
